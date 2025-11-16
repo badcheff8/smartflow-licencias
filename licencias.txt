@@ -1,0 +1,3 @@
+usuario1@gmail.com|PRO
+usuario2@gmail.com|FREE
+usuario3@hotmail.com|INACTIVA
